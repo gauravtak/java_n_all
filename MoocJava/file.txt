@@ -1,0 +1,6 @@
+When the Scanner-object that reads the file has been created, 
+the file can be read using a while-loop.\n\n\n\n\n 
+The reading proceeds until all the lines of the file have been read, i.e., until the scanner finds no more lines to read.
+Reading a file may result in an error, and it's for this reason that the process requires separate blocks - one for the try,
+
+and another to catch potential errors. We'll be returning to the topic of error handling later.
